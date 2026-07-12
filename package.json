@@ -1,0 +1,11 @@
+{
+  "name": "prguard-demo-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "PRGuard Getting Started demo (JavaScript)",
+  "main": "server.js",
+  "dependencies": {
+    "better-sqlite3": "^11.0.0"
+  }
+}
